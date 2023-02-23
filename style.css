@@ -1,0 +1,43 @@
+h2{
+    color: lightpink;
+    font-family: 'Crimson Text', serif;
+    font-size: 35px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: lightpink;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 40px;
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    text-align: center;
+}                                                                                                                                                                                          
+.SHI{
+    display: flex;
+    justify-content: center;
+    background-color: pink;
+}
+.SHIX2{
+    width: 60%;
+
+}
+.DIV_NAME{
+    background-color: purple;
+}
+.SENA{
+    color: white;
+}
+b{
+    color: red;
+}
+a{
+    color: violet
+}
